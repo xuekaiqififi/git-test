@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("Hello Github!");
         System.out.println("Hello Git3!");
         System.out.println("Hello Github!55555555555555");
+        System.out.println("Hello master test");
     }
 }
